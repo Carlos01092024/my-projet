@@ -28,6 +28,3 @@ color: #2980b9;
 <a href="https://www.exemplo.com&quot; target="_blank">Visite um site externo</a>
 </body>
 </html>
-
-
----

@@ -24,8 +24,8 @@ color: #2980b9;
 </style>
 </head>
 <body>
-<h1>XD!</h1>
+<h1>Bem-vindo ao meu site!</h1>
 <p>Este é um site simples feito com HTML e CSS.</p>
-<a href="https://www.exemplo.com&quot; target="_blank">Visite um site externo</a>
+<a href="https://www.exemplo.com" target="_blank">Visite um site externo</a>
 </body>
 </html>
